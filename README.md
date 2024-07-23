@@ -1,1 +1,5 @@
-# ai-team-study-prompts
+# Example ChatGPT prompts to help:
+
+Prompts here...
+
+Other prompts.....
